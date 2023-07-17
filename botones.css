@@ -6,8 +6,8 @@ ul, ol{
     list-style: none;
 }
 .botones li a{
-    background-color: rgb(5, 247, 247);
-    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    color: rgb(251, 251, 251);
     text-decoration: none;
     padding: 10px 10px;
     display: block;
@@ -24,7 +24,7 @@ ul, ol{
     display: block;
 }
 .botones li a:hover {
-    background-color: rgb(235, 238, 238);
+    background-color: rgb(229, 20, 20);
 }
 .menu li ul{
 position: absolute;
@@ -40,5 +40,56 @@ display: none;
     text-align: center;
     
     font-size: 30px;
-   
+   color: rgb(255, 255, 255);
 }
+
+.contenido{
+
+    height: 280px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+    
+     
+    
+    .imagentecno{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("medellin.jpeg");
+    
+    }
+    
+    
+    
+    .textotecno{
+    
+    text-align: justify;
+    
+    color: azure;
+    
+    font-size: 20px;
+    
+    
+    
+    }
+    
