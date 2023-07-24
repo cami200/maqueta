@@ -46,7 +46,7 @@
     
      
     
-    height: 230px;
+    height: 1050px;
     
      
     
@@ -65,13 +65,13 @@
     }
     .contenido{
 
-        height: 280px;
+        height: 1200px;
         
         width: 100%;
         
         position: absolute;
         
-        top: 410px;
+        top: 2px;
         
          
         
@@ -79,7 +79,7 @@
         
          
         
-        .imagentecno{
+        .imagenbiologia{
         
          
         
@@ -95,21 +95,274 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("9.gif");
         
         }
         
         
         
-        .textotecno{
+        .textobilogia{
         
         text-align: justify;
         
         color: azure;
         
         font-size: 20px;
+         }
         
-        
-        
-        }
-        
+
+
+ 
+
+
+            .contenido{
+
+                height: 1200px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 2px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenreligion{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("6.jpg");
+                
+                }
+                
+                
+                
+                .textoreligion{
+                
+                text-align: justify;
+                
+                color: azure;
+                
+                font-size: 20px;
+                
+                
+                
+                }
+
+
+                .contenido{
+
+                    height: 1200px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 2px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagensociales{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("6.jpg");
+                    
+                    }
+                    
+                    
+                    
+                    .textosociales{
+                    
+                    text-align: justify;
+                    
+                    color: azure;
+                    
+                    font-size: 20px;
+                    
+                    
+                    
+                    }
+
+                    .contenido{
+
+                        height: 1200px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 2px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                        .imagenmatematicas{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("6.jpg");
+                        
+                        }
+                        
+                        
+                        
+                        .textomatematicas{
+                        
+                        text-align: justify;
+                        
+                        color: azure;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+
+                        .contenido{
+
+                            height: 1200px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 2px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                            .imageningles{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("6.jpg");
+                            
+                            }
+                            
+                            
+                            
+                            .textoingles{
+                            
+                            text-align: justify;
+                            
+                            color: azure;
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+
+
+                            .contenido{
+
+                                height: 1200px;
+                                
+                                width: 100%;
+                                
+                                position: absolute;
+                                
+                                top: 2px;
+                                
+                                 
+                                
+                                }
+                                
+                                 
+                                
+                                .imagentecno2{
+                                
+                                 
+                                
+                                background-repeat: no-repeat;
+                                
+                                float:right;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("tecno.jpg");
+                                
+                                }
+                                
+                                
+                                
+                                .textotecno2{
+                                
+                                text-align: justify;
+                                
+                                color: azure;
+                                
+                                font-size: 20px;
+                                
+                                
+                                
+                                }
