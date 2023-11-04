@@ -354,7 +354,6 @@
                                 }
                                 
                                 
-                                
                                 .textotecno2{
                                 
                                 text-align: justify;
@@ -362,7 +361,51 @@
                                 color: azure;
                                 
                                 font-size: 20px;
-                                
-                                
-                                
-                                }
+                                 }
+
+                              
+                                 .contenido{
+
+                                    height: 1200px;
+                                    
+                                    width: 100%;
+                                    
+                                    position: absolute;
+                                    
+                                    top: 2px;
+                                    
+                                     
+                                    
+                                    }
+                                    
+                                     
+                                    
+                                    .imagentecno3{
+                                    
+                                     
+                                    
+                                    background-repeat: no-repeat;
+                                    
+                                    float:right;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("comunicacion.jpg");
+                                    
+                                    }
+                                    
+                                    
+                                    .textotecno3{
+                                    
+                                    text-align: justify;
+                                    
+                                    color: azure;
+                                    
+                                    font-size: 20px;
+                                     }
