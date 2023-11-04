@@ -14,7 +14,7 @@
     
     background-image: url("9.jpg");
     
-    background-repeat: no-repeat;
+    
     
     }
     
@@ -409,3 +409,23 @@
                                     
                                     font-size: 20px;
                                      }
+
+                                     .imageningles3{
+        
+         
+        
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 200px;
+                                        
+                                        width: 260px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("convivencia.jpg");
+                                        
+                                        }
